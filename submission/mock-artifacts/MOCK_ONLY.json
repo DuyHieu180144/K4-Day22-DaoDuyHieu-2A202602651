@@ -1,0 +1,8 @@
+{
+  "synthetic": true,
+  "not_training_or_evaluation_evidence": true,
+  "notice": "SYNTHETIC MOCK — not produced by training, model inference, or a judge.",
+  "seed": 2208,
+  "scope": "format and visualization practice only; no model, GPU, or judge was run",
+  "official_lab_artifacts_replaced": false
+}

@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "diagnosis": "MOCK_ONLY",
+  "compute_tier": null,
+  "base_model": null,
+  "reference": null,
+  "pref_dataset": "synthetic Vietnamese examples",
+  "beta": 0.1,
+  "lr": 5e-06,
+  "epochs": 1,
+  "loss_type": [
+    "sigmoid"
+  ],
+  "final_train_loss": 0.91,
+  "first_logged_loss": 1.84,
+  "end_chosen_reward": 0.035,
+  "end_rejected_reward": -0.04,
+  "end_reward_gap": 0.075,
+  "eval_chosen_reward": 0.02,
+  "eval_rejected_reward": -0.055,
+  "eval_reward_gap": 0.075,
+  "eval_reward_accuracy": 0.61,
+  "note": "SYNTHETIC MOCK — not produced by training, model inference, or a judge."
+}

@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "length_unit": "whitespace word count; not model tokenizer tokens",
+  "n": 800,
+  "train_n": 800,
+  "eval_n": 100,
+  "chosen_median": 71,
+  "rejected_median": 19,
+  "chosen_longer_frac": 1.0
+}
